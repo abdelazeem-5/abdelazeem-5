@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Abdelazeem Ahmed
 
-<!--
-**abdelazeem-5/abdelazeem-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I build backend applications and REST APIs
+using Node.js and Express.js.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+JavaScript | Node.js | Express
+PostgreSQL | MongoDB | Git
+Linux | Python | C++
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Currently Learning
+
+Node.js Backend Development
+Databases & API Design
+Linux & Networking
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Projects
+
+...
