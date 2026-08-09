@@ -1,33 +1,46 @@
 👋 Hi, I'm Abdelazeem Ahmed
 
-💻 Backend Developer
-🎓 Computer Science Student
+💻 Backend Developer | 🎓 Computer Science Student
 
-━━━━━━━━━━━━━━━━━━━━━━
+I build backend applications and REST APIs using Node.js
+and Express.js, with a focus on databases and API design.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚀 About Me
 
-I build backend applications and REST APIs
-using Node.js and Express.js.
+• Focused on Backend Development
+• Building RESTful APIs with Node.js
+• Working with SQL & NoSQL databases
+• Improving my problem-solving skills
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ Tech Stack
 
-JavaScript | Node.js | Express
-PostgreSQL | MongoDB | Git
-Linux | Python | C++
+[JavaScript] [Node.js] [Express] [PostgreSQL]
+[MongoDB] [Git] [GitHub] [Python] [C++]
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📚 Currently Learning
 
-Node.js Backend Development
-Databases & API Design
-Linux & Networking
+🔹 Advanced Node.js Backend Development
+🔹 Database Design & API Architecture
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 Projects
+🚀 Featured Projects
 
-...
+💊 Medicine App
+🛒 Loyalty Program
+🔧 Node.js Projects
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
+LinkedIn
