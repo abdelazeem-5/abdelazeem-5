@@ -14,4 +14,4 @@
 
 ### 📊 GitHub Stats
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/abdelazeem-a7med/)
