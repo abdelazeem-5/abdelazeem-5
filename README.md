@@ -4,14 +4,14 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp" />
-</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp](https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp)" /> \</p>
 
 ### 🚀 Projects
 
 💊 Medicine App • 🛒 Loyalty Program • 🔧 Node.js Projects
 
 ### 📊 GitHub Stats
+
+
 
 [LinkedIn](https://www.linkedin.com/in/abdelazeem-a7med/)
