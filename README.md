@@ -1,17 +1,17 @@
-\# 👋 Hi, I'm Abdelazeem Ahmed
+# 👋 Hi, I'm Abdelazeem Ahmed
 
 💻 Backend Developer | 🎓 Computer Science Student
 
-\### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp](https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,git,github,python,cpp" />
+</p>
 
-\### 🚀 Projects
+### 🚀 Projects
 
 💊 Medicine App • 🛒 Loyalty Program • 🔧 Node.js Projects
 
-\### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-[LinkedIn]\([https://www.linkedin.com/in/abdelazeem-a7med/](https://www.linkedin.com/in/abdelazeem-a7med/))
+[LinkedIn](https://www.linkedin.com/in/abdelazeem-a7med/)
