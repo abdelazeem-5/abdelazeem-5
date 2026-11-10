@@ -5,7 +5,7 @@
 \### 🛠️ Languages & Tools
 
 \<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,nodejs,ts,express,postgres,mongodb,git,github,python,cpp](https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp](https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,git,github,python,cpp)" />
 \</p>
 
 \### 🚀 Projects
@@ -15,4 +15,3 @@
 \### 📊 GitHub Stats
 
 [LinkedIn]\([https://www.linkedin.com/in/abdelazeem-a7med/](https://www.linkedin.com/in/abdelazeem-a7med/))
-عايز ازود تايب اسكريبت
