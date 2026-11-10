@@ -5,9 +5,11 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres" />
-   <img src="https://skillicons.dev/icons?i=prisma,redis,postman,git,github,docker,python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mysql,mongodb,postgres,prisma" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,postman,git,github,docker,python,cpp,java" />
 </p>
+
 
 ### 🚀 Projects
 
